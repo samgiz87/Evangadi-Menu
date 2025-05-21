@@ -1,0 +1,22 @@
+ * {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: #deeff2;
+    font-family: "Poppins", sans-serif;
+  }
+ 
+  .title > h1 {
+    margin-top: 35px;
+    text-align: center;
+    font-size: 30px;
+    color: #d47d03;
+  }
+  .title > div {
+    height: 3px;
+    width: 70px;
+    margin: 15px auto 20px;
+    background-color: #ff9500;
+  }
+  
